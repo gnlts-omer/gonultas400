@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gnlts_omer
+- 👀 I’m interested in Node Operations
+- 🌱 I’m currently learning programming (C,linux,phyton)
